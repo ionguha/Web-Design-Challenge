@@ -2,7 +2,7 @@
 # Web-Design-Challenge
 #### Web Visualization Dashboard (Lattitude) ####
 ## Data is more powerful when we share it with others!   
-### I have created a dashboard using HTML, Bootstrap and CSS to show off the weather analysis of more than 500 cities.
+### A dashboard using HTML, Bootstrap and CSS to show off the weather analysis of more than 500 cities.
 **The website consists of 7 pages total, including:**
 
 * A **_landing-page_** containing:
