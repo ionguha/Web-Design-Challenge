@@ -18,5 +18,5 @@
 * A **_data-page_** that:
   * Displays a responsive table containing the data used in the visualizations.
   
-Weblink:
+**Website link:**
 https://ionguha.github.io/Web-Design-Challenge/WebVisualizations/index.html
