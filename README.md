@@ -17,3 +17,4 @@
   * Uses a bootstrap grid for the visualizations.
 * A **_data-page_** that:
   * Displays a responsive table containing the data used in the visualizations.
+https://ionguha.github.io/Web-Design-Challenge/WebVisualizations/index.html
